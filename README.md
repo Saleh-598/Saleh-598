@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Saleh-598
 - 👀 I’m interested in Growing my skills
+- 🧠 I currently know HTML , CSS
 - 🌱 I’m currently learning javaScript
 - 🥅 My goal is to make a useful android app for everyday use
 <!---
